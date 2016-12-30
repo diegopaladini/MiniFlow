@@ -1,2 +1,2 @@
 # MiniFlow
-Mini Library from skecth to manage neural networks
+Mini Library from scratch to manage neural networks
